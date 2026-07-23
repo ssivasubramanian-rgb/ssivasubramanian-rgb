@@ -3,8 +3,9 @@
 ### Head of Computing & ICT · Teaching & Learning Specialist · AI in Education · Robotics & Digital Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/sathishsivasubramanian)
+[![Substack](https://img.shields.io/badge/Substack-Tech%20%26%20Thought-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@techandthought)
+![Python](https://img.shields.io/badge/Preferred%20Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-London%2C%20UK-1f6feb?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Computing%20Education-7c3aed?style=flat-square)
 
 > I help young people and educators use computing, digital technology and AI thoughtfully, creatively and responsibly.
 
@@ -14,7 +15,10 @@ I am a London-based educator and school leader, currently leading **Computing an
 
 My work brings together technical education, curriculum leadership, teaching and learning, pastoral care and inclusive STEM opportunities. I design and teach Computing from Key Stage 3 through to A Level, support colleagues with digital learning, and explore how emerging technologies can improve education without replacing professional judgement or genuine student thinking.
 
+**Python is my preferred programming language**, particularly for teaching computational thinking, building practical educational tools and helping students progress from foundational concepts to independent problem-solving.
+
 - 💻 Leading Computing and ICT curriculum development across Years 7–13
+- 🐍 Teaching programming, algorithms and problem-solving through Python
 - 🤖 Mentoring students through **FIRST Tech Challenge** robotics
 - 🧠 Developing practical and responsible approaches to **AI in education**
 - 📊 Creating assessment, question-level analysis and feedback tools
@@ -25,8 +29,9 @@ My work brings together technical education, curriculum leadership, teaching and
 
 | Area | What I am exploring and building |
 |---|---|
+| **Python and programming** | Student-friendly examples, coding challenges, computational thinking and practical educational tools |
 | **AI in education** | Responsible use of Gemini and NotebookLM, teacher workload, marking and feedback, policy, and communication with families |
-| **Computing curriculum** | Python, algorithms, data representation, cybersecurity, Boolean logic, computer systems and programming projects |
+| **Computing curriculum** | Algorithms, data representation, cybersecurity, Boolean logic, computer systems and programming projects |
 | **Assessment and insight** | Question-level analysis, personalised reporting, retrieval practice and data-informed intervention |
 | **Robotics and STEM** | Student leadership, engineering design, teamwork, competition preparation and inclusive participation |
 | **Digital learning** | Meaningful classroom technology, staff development, online safety and digital citizenship |
@@ -35,10 +40,10 @@ My work brings together technical education, curriculum leadership, teaching and
 ## Current priorities
 
 - Building a clear, evidence-informed approach to AI across school
-- Developing reusable Computing resources and intelligent assessment tools
+- Developing reusable Python-based Computing resources and assessment tools
 - Strengthening progression from Key Stage 3 to GCSE and A Level
 - Expanding authentic robotics, media and digital leadership opportunities for students
-- Documenting and sharing useful practice openly through GitHub
+- Documenting and sharing useful practice openly through GitHub and [Tech & Thought](https://substack.com/@techandthought)
 
 ## What will appear here
 
@@ -65,7 +70,7 @@ I am interested in collaborating with educators, school leaders, researchers and
 - Curriculum and assessment design
 - Digital strategy and educational leadership
 
-Connect with me on [LinkedIn](https://uk.linkedin.com/in/sathishsivasubramanian).
+Connect with me on [LinkedIn](https://uk.linkedin.com/in/sathishsivasubramanian) or read my writing on [Tech & Thought](https://substack.com/@techandthought).
 
 ---
 
